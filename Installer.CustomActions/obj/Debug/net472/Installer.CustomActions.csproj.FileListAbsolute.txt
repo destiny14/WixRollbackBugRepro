@@ -1,0 +1,14 @@
+D:\Sources\WixTest\Installer.CustomActions\bin\Debug\net472\CustomAction.config
+D:\Sources\WixTest\Installer.CustomActions\bin\Debug\net472\Installer.CustomActions.dll
+D:\Sources\WixTest\Installer.CustomActions\bin\Debug\net472\Installer.CustomActions.CA.dll
+D:\Sources\WixTest\Installer.CustomActions\bin\Debug\net472\Installer.CustomActions.pdb
+D:\Sources\WixTest\Installer.CustomActions\bin\Debug\net472\WixToolset.Dtf.WindowsInstaller.dll
+D:\Sources\WixTest\Installer.CustomActions\obj\Debug\net472\Installer.CustomActions.csproj.AssemblyReference.cache
+D:\Sources\WixTest\Installer.CustomActions\obj\Debug\net472\Installer.CustomActions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sources\WixTest\Installer.CustomActions\obj\Debug\net472\Installer.CustomActions.AssemblyInfoInputs.cache
+D:\Sources\WixTest\Installer.CustomActions\obj\Debug\net472\Installer.CustomActions.AssemblyInfo.cs
+D:\Sources\WixTest\Installer.CustomActions\obj\Debug\net472\Installer.CustomActions.csproj.CoreCompileInputs.cache
+D:\Sources\WixTest\Installer.CustomActions\obj\Debug\net472\Installer.CustomActions.CA.rsp
+D:\Sources\WixTest\Installer.CustomActions\obj\Debug\net472\Installe.D1FF5469.Up2Date
+D:\Sources\WixTest\Installer.CustomActions\obj\Debug\net472\Installer.CustomActions.dll
+D:\Sources\WixTest\Installer.CustomActions\obj\Debug\net472\Installer.CustomActions.pdb

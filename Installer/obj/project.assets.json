@@ -1,0 +1,74 @@
+{
+  "version": 3,
+  "targets": {
+    "native,Version=v0.0": {},
+    "native,Version=v0.0/win": {},
+    "native,Version=v0.0/win-arm64": {},
+    "native,Version=v0.0/win-x64": {},
+    "native,Version=v0.0/win-x86": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "native,Version=v0.0": []
+  },
+  "packageFolders": {
+    "D:\\.nuget\\packages": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Sources\\WixTest\\Installer\\Installer.wixproj",
+      "projectName": "Installer",
+      "projectPath": "D:\\Sources\\WixTest\\Installer\\Installer.wixproj",
+      "packagesPath": "D:\\.nuget\\packages",
+      "outputPath": "D:\\Sources\\WixTest\\Installer\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\marcos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "native"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "native": {
+          "targetAlias": "native",
+          "projectReferences": {}
+        }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "native": {
+        "targetAlias": "native"
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-arm64": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

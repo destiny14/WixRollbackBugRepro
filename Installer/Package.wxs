@@ -1,0 +1,14 @@
+﻿<Wix xmlns="http://wixtoolset.org/schemas/v4/wxs">
+  <Package Name="Installer" Manufacturer="TODO Manufacturer" Version="1.0.0.0" UpgradeCode="b851b0ff-3d18-4934-8337-fb3ece218aeb" Scope="perUser">
+    <MajorUpgrade DowngradeErrorMessage="!(loc.DowngradeError)" />
+	  <Media Id="1" Cabinet="cab1.cab" EmbedCab="yes" />
+
+	  <Property Id="MSIINSTALLPERUSER" Secure="yes" Value="1" />
+	  <Property Id="ALLUSERS" Secure="yes" Value="2" />
+    <Feature Id="Main">
+      <ComponentGroupRef Id="ExampleComponents" />
+    </Feature>
+
+	  <CustomActionRef Id="CustomAction1"/>
+  </Package>
+</Wix>

@@ -1,0 +1,6 @@
+D:\Sources\WixTest\Installer\bin\x86\Debug\en-US\Installer.msi
+D:\Sources\WixTest\Installer\bin\x86\Debug\en-US\Installer.wixpdb
+D:\Sources\WixTest\Installer\obj\x86\Debug\Installer.wixproj.CoreCompileInputs.cache
+D:\Sources\WixTest\Installer\obj\x86\Debug\en-US\Installer.msi
+D:\Sources\WixTest\Installer\obj\x86\Debug\en-US\Installer.wixpdb
+D:\Sources\WixTest\Installer\obj\x86\Debug\Installer.wixproj.BindTracking-en-US.txt

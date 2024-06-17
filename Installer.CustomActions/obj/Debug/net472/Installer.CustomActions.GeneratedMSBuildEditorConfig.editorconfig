@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = Installer.CustomActions
+build_property.ProjectDir = D:\Sources\WixTest\Installer.CustomActions\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

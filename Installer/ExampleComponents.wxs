@@ -1,0 +1,15 @@
+<Wix xmlns="http://wixtoolset.org/schemas/v4/wxs">
+  <Fragment>
+    <ComponentGroup Id="ExampleComponents" Directory="INSTALLFOLDER">
+      <Component Guid="8ebf007f-1e3c-4a67-976d-5f9b1c785f02">
+		  <RegistryKey Root="HKCU"
+                         Key="Software\!(bind.Property.Manufacturer) !(bind.Property.ProductName)\ExampleComponent">
+			  <RegistryValue Value="." Type="string"
+                             KeyPath="yes" />
+		  </RegistryKey>
+		  <File Source="ExampleComponents.wxs" />
+		  <RemoveFolder Id="INSTALLFOLDER" On="uninstall" />
+      </Component>
+    </ComponentGroup>
+  </Fragment>
+</Wix>

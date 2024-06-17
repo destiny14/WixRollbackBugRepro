@@ -1,0 +1,5 @@
+BuiltPdbOutput	D:\Sources\WixTest\Installer\obj\x86\Debug\en-US\Installer.wixpdb
+BuiltTargetOutput	D:\Sources\WixTest\Installer\obj\x86\Debug\en-US\Installer.msi
+Input	D:\Sources\WixTest\Installer.CustomActions\bin\Debug\net472\Installer.CustomActions.CA.dll
+Input	ExampleComponents.wxs
+Intermediate	D:\Sources\WixTest\Installer\obj\x86\Debug\en-US\#cab1.cab
